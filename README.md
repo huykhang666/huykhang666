@@ -1,27 +1,100 @@
-<!-- Hello -->
 <div align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&color=%2336BCF7&size=30&duration=1600&lines=Ch%C3%A0o+th%E1%BA%BF+gi%E1%BB%9Bi!;Hello+World!;%E4%BD%A0%E5%A5%BD%E4%B8%96%E7%95%8C!;%D0%9F%D1%80%D0%B8%D0%B2%D0%B5%D1%82+%D0%BC%D0%B8%D1%80!;%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C!;%EC%95%88%EB%85%95%ED%95%98%EC%84%B8%EC%9A%94!;Bonjour+monde!;Halo+Dunia!;%E0%BA%AA%E0%BA%B0%E2%80%8B%E0%BA%9A%E0%BA%B2%E0%BA%8D%E2%80%8B%E0%BA%94%E0%BA%B5%E2%80%8B%E0%BA%8A%E0%BA%B2%E0%BA%A7%E2%80%8B%E0%BB%82%E0%BA%A5%E0%BA%81!;Hallo+Welt!;%E0%B8%AA%E0%B8%A7%E0%B8%B1%E0%B8%AA%E0%B8%94%E0%B8%B5%E0%B8%8A%E0%B8%B2%E0%B8%A7%E0%B9%82%E0%B8%A5%E0%B8%81;Hola+Mundo">
+
+  <!-- HEADER BANNER DẠNG SÓNG CÔNG NGHỆ CHUYỂN ĐỘNG -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2,9,20&height=220&section=header&text=Huy%20Khang%20Nguyen&fontSize=52&fontColor=ffffff&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20%7C%20Backend%20%26%20Cloud%20Enthusiast&descAlignY=58&descSize=20" width="100%" />
+
+  <!-- DÒNG CHỮ GÕ TỰ ĐỘNG CHUYỂN MÀU GRADIENT -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=800&color=F700FF&background=00000000&center=true&vCenter=true&multiline=true&width=650&height=70&lines=Building+high-performance+web+applications+%F0%9F%9A%80;Exploring+Distributed+Systems+%26+Cloud+Native+%E2%98%81%EF%FE%8F;Turning+caffeine+into+clean+code+%E2%98%95" alt="Typing SVG" />
+  </a>
+
+  <!-- PROFILE VISITOR BADGE CÔNG NGHỆ -->
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=huykhang666&label=%E2%9A%A1%20PROFILE%20VIEWS&color=7928CA&style=for-the-badge" />
+    <img src="https://img.shields.io/badge/FOCUS-BACKEND%20%26%20SYSTEM-00DFD8?style=for-the-badge" />
+  </p>
+
+  <!-- MẠNG XÃ HỘI PHONG CÁCH NEON PILL -->
+  <p align="center">
+    <a href="mailto:huykhang11206@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+    <a href="https://linkedin.com/in/nguyen-huy-khang-476bb737a" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+    <a href="https://leetcode.com/u/NguyenHuyKhang/" target="_blank"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/></a>
+    <a href="https://facebook.com/huy.khang.575728" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
+  </p>
+
 </div>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/huy.khang.575728/) 
-![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:huykhang11206@gmail.com) 
+---
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### 🏆 Danh Hiệu & Cúp Đạt Được (GitHub Trophies)
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=huykhang666&theme=radical&no-frame=true&no-bg=true&margin-w=6&column=7" width="100%" alt="Trophies" />
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=huykhang666&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/huykhang66l) 
+### 📈 Biểu Đồ Sóng Hoạt Động (Commit Activity Wave Graph)
+*Biểu đồ sóng thời gian thực phản ánh nhịp độ code 30 ngày gần nhất:*
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=huykhang666&theme=react-dark&hide_border=true&area=true&color=00DFD8&line=7928CA&point=F700FF" width="95%" alt="Activity Graph" />
+</div>
+
+---
+
+### ⚡ Vũ Khí Công Nghệ (Tech Stack)
+
+<div align="center">
+  <!-- Dòng 1: Ngôn ngữ chính -->
+  <p><b>Languages & Core:</b></p>
+  <img src="https://skillicons.dev/icons?i=c,cs,cpp,java,ts,js,python,html,css&perline=9" />
   
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-![GitHub Snake](https://raw.githubusercontent.com/huykhang666/huykhang666/output/github-snake.svg)
+  <!-- Dòng 2: Framework & Backend -->
+  <p><b>Frameworks & Backend:</b></p>
+  <img src="https://skillicons.dev/icons?i=dotnet,spring,django,nextjs,react,bootstrap,tailwind&perline=8" />
+
+  <!-- Dòng 3: Database & Cloud & DevOps -->
+  <p><b>Database & DevOps:</b></p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,firebase,docker,linux,git,github,postman&perline=9" />
+</div>
+
+---
+
+### 📊 Thống Kê & Chuỗi Hoạt Động (Radical Neon)
+
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=huykhang666&show_icons=true&theme=radical&hide_border=true&count_private=true" width="410" />
+      </td>
+      <td>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=huykhang666&theme=radical&hide_border=true" width="410" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=huykhang666&layout=compact&theme=radical&hide_border=true" width="400" />
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
+### 🐍 Ma Trận Rắn Săn Đóng Góp (Cyber Snake Eating Grid)
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/huykhang666/huykhang666/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/huykhang666/huykhang666/output/github-snake.svg" />
+    <img alt="Snake Eating Contributions" src="https://raw.githubusercontent.com/huykhang666/huykhang666/output/github-snake.svg" width="100%" />
+  </picture>
+</div>
+
+---
+
+<!-- FOOTER LƯỢN SÓNG KẾT BÀI -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=20,9,2,1&height=120&section=footer" width="100%" />
+</div>
